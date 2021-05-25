@@ -1,0 +1,113 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" type="text/css" href="/bootstrap.min.css">
+    <link rel="stylesheet" type="texxt/css" href="/normalize.min.css">
+    <link rel="stylesheet" href="port2.css">
+    <script src="https://kit.fontawesome.com/c1270b15dd.js" crossorigin="anonymous"></script>
+    <a href="https://icons8.com/icon/c84A8yTomT5p/internet">Internet icon by Icons8</a>
+    
+</head>
+
+<body>
+    <section class="bck">
+        <div class="col-sm-12">
+            <div class="col-sm-4">
+                <din class="logo">
+                    <h1 style="color:#ffac48;"> <samp> < I'M DEVELOPER /> </samp> </h1>
+                </din>
+            </div>
+            <div class="col-sm-2"></div>
+            <div class="col-sm-6">
+                <div class="class">
+                    <ul>
+                        <li><a href="#" style="color: #a35709;">HOME</a></li>
+                        <li><a href="#">ABOUT</a></li>
+                        <li><a href="#">SERVICES</a></li>
+                        <li><a href="#">PORTFOLIO</a></li>
+                        <li><a href="#">BLOG</a></li>
+                        <li><a href="#">CONTACT</a></li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+        <div class="col-sm-12">
+            <div class="cont">
+                <div class="col-sm-4"></div>
+                <div class="col-sm-4">
+                    <div class="form">
+                        <h1> Welcome! <br>I am <span>Web Designer</span></h1>
+                        <input class="btn" type="button" value="VIEW WORK">
+                        <input class="btn" type="button" value="HIRE ME">
+                    </div>
+                </div>
+                <div class="col-sm-4"></div>
+            </div>
+        </div>
+    </section>
+    <section class="red">
+        <div class="col-sm-12">
+            <div class="col-sm-1"></div>
+            <div class="col-sm-10">
+                <div class="col-sm-6" style="width: 100%;float: left;">
+                    <div class="opt">
+                        <div class="col-sm-6">
+                            <div class="abt">
+                                <h1>ABOUT ME</h1>
+                                <p> Lorem ipsum dolor sit, amet consectetur adipisicing elit. Doloremque quisquam quos modi. Sit eligendi voluptatem eius! Alias aspernatur beatae deleniti porro eos qui est dolore? </p>
+                            </div>
+                        </div>
+                        <div class="col-sm-3">
+                            <div class="ser">
+                                <h1>SERVICES</h1>
+                                <p>SERVICES THAT WE PROVIDE TO ARE CLIENTS </p>
+                            </div>
+                        </div>
+                        <div class="col-sm-3">
+                            <div class="projects">
+                                <h1>WORK</h1>
+                                <p> projects that we successfully accomplised </p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-sm-6" style="width: 100%;float: left;">
+                    <div class="opt">
+                        <div class="col-sm-3" style="float: left;">
+                            <div class="top">
+                                <img src="https://img.icons8.com/color/48/000000/internet--v2.png"/>
+                                <p>WEB-DEVELOPMENT</p>
+                            </div>
+                        </div>
+                        <div class="col-sm-3" style="float: left;">
+                            <div class="ht">
+                                <i class="fab fa-html5" style="font-size: 50px;color: rgb(231, 63, 2);"></i>
+                                <p>HTML</p>
+                            </div> 
+                        </div>
+                        <div class="col-sm-3" style="float: left;">
+                            <div class="cs">
+                                <i class="fab fa-css3-alt" style="font-size: 50px;color: rgb(61, 61, 219);"></i>
+                                <p>CSS</p>
+                            </div>
+                        </div>
+                        <div class="col-sm-3" style="float: left;">
+                            <div class="prj">
+                                <i class="fab fa-js-square" style="font-size: 50px;color: rgb(165, 165, 29);"></i>
+                                <p>JAVASCRIPT</p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="col-sm-1"></div>
+        </div>
+    </section>
+</body>
+
+</html>
