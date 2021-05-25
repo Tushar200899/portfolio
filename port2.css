@@ -1,0 +1,99 @@
+ul{
+    list-style: none;
+    height: 36px;
+    width: 690;
+    line-height:39px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 14px;
+    border-right: rgb(255, 255, 255);
+    display: flex;
+}
+li{
+    list-style: none;
+    float: left;
+    border-radius: 2px;
+    padding:0 20px ;
+    text-decoration: none;
+}
+a{
+    margin-top: 40px;
+    color: white;
+    box-sizing: border-box;
+    border-radius: 15px;
+    padding: 8px 6px;
+    overflow: hidden;
+}
+a:hover{
+    background-color: #f0e3ca;
+}
+.logo h1{
+    margin-top: 0;
+}
+.bck{
+    background: url(/portbck.jpg);
+    width: 100%;
+    height: 100vh;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+span{
+    color: #ffcb6b;
+}
+.form{
+    box-sizing:border-box ;
+    background-color: rgba(0,0,0,0.55);
+    margin-top: 30%;
+    border:10px;
+    text-align: center;
+    border-top-left-radius: 70px;
+    border-bottom-right-radius: 70px;
+    color: rgb(251, 252, 255);
+    font-weight: bold;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+.btn{
+    background-color: rgb(255, 5, 5);
+    color: white;
+    padding: 10px 25px;
+    margin: 10px 0 20px 0;
+}
+/* .opt{
+    display: flex;
+} */
+.red{
+    float: left;
+    background-color: #f0e3ca;
+    width: 100%;
+}
+.ht, .cs, .prj, .top{
+    text-align: center;
+    color: #ff8303 ;
+    font-weight:bold ;
+    font-size: 24px;
+    height: 150px;
+    margin-top: 10px;
+    box-sizing: border-box;
+    border: #000;  
+    background-color:#1b1a17;
+    border-radius: 10px;
+}
+.abt, .ser, .projects{
+    padding-left: 5px;
+    text-transform: uppercase;
+    color: white;
+    height: 150px;
+    margin-top: 10px;
+    box-sizing: border-box;
+    border: #000;  
+    background-color:#1b1a17;
+    border-radius: 10px;
+}
+.abt h1, .ser h1, .projects h1{
+  color: #ff8303;
+  text-align: center;
+}
+.btn:hover{
+    background-color: #90F490;
+}
